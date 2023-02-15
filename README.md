@@ -7,7 +7,7 @@ The first time you open the project, it will show you three types of vehicles an
 
 3-car
 
-to perform the three operations:
+to perform the four operations:
 
 1-changeGear
 
